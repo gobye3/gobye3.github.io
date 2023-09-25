@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.34c36e9c.css",
+    "main.css": "/static/css/main.f13ceee9.css",
     "main.js": "/static/js/main.9e4b9c18.js",
     "static/js/787.5c4d99df.chunk.js": "/static/js/787.5c4d99df.chunk.js",
     "static/media/SpoqaHanSansNeo-Bold.woff": "/static/media/SpoqaHanSansNeo-Bold.dc75532918fd412e27a3.woff",
@@ -10,12 +10,12 @@
     "static/media/SpoqaHanSansNeo-Regular.woff2": "/static/media/SpoqaHanSansNeo-Regular.452bf1579d6a73fbaffc.woff2",
     "static/media/SpoqaHanSansNeo-Medium.woff2": "/static/media/SpoqaHanSansNeo-Medium.8589927a4fa35d637a8d.woff2",
     "index.html": "/index.html",
-    "main.34c36e9c.css.map": "/static/css/main.34c36e9c.css.map",
+    "main.f13ceee9.css.map": "/static/css/main.f13ceee9.css.map",
     "main.9e4b9c18.js.map": "/static/js/main.9e4b9c18.js.map",
     "787.5c4d99df.chunk.js.map": "/static/js/787.5c4d99df.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.34c36e9c.css",
+    "static/css/main.f13ceee9.css",
     "static/js/main.9e4b9c18.js"
   ]
 }
